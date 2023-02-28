@@ -2,12 +2,13 @@
     width: 500px;
     height: 600px;
     background-color: #4d0f00;
+    padding: 1px;
+    overflow: hidden;
 }
 .frame {
     border: 50px solid black;
     width: 500px;
     padding: 50px;
-    margin-top: 20px;
     margin: 20px auto;
 }
 .one {
@@ -15,4 +16,14 @@
     height: 150px;
     background-color: #efb762;
     margin: 20px auto;
+}
+.two {
+    width: 475px;
+    height: 200px;
+    background-color: #8f0401;
+    margin: auto;
+}
+.three {
+    width: 91%;
+    height: 28%;
 }
